@@ -7,7 +7,7 @@ st.set_page_config(page_title="🤖 Elariz's Chatbot", layout="wide")
 st.title("🤖 Elariz's Chatbot")
 
 # Initialize Groq client
-client = Groq(api_key="groq_key")
+client = Groq(api_key="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")
 
 # Initialize session state variables
 if "messages" not in st.session_state:
